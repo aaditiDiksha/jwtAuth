@@ -1,3 +1,3 @@
 # jwtAuth
 
-jwt Authentication using acces and refresh tokens
+jwt Authentication using access and refresh tokens
